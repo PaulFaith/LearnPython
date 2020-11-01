@@ -12,3 +12,4 @@ class Myjson:
   def write(self):
     with open(self.file,"w") as doc:
       json.dump(self.new,doc)
+      return doc
