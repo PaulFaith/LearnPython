@@ -7,6 +7,7 @@ class Myjson:
   def read(self):
     with open(self._file) as doc:
       data = json.load(doc)
+      return data
     
   def write(self):
     with open(self.file,"w") as doc:
