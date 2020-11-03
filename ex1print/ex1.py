@@ -1,5 +1,5 @@
 #As an old sabio said practice, practice and practice. GENIUS se hace GENIUS also nace but also if you born GENIUS and practice then you will be GENIUS square if not your 
-exponent number will be between 0 and 1 that means GENIUS will suddenly disapear!! GO, GO, GOOOOO...!! 
+#exponent number will be between 0 and 1 that means GENIUS will suddenly disapear!! GO, GO, GOOOOO...!! 
 
 print("Hello world!! I'm Paul")
 print("As an old sabio said PRACTICE!!")
