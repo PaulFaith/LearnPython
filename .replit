@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 Exercises/ex11ask/ex11.py"
+run = "python3 ex19functions/ex19.py"
