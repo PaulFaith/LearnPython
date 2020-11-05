@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 ex20filesfunctions/ex20.py ex20filesfunctions/file.txt"
+run = "python3 ex23utf8/ex23.py utf-8 strict ex23utf8/languages.txt"
